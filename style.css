@@ -1,3 +1,20 @@
 body{
-    background-color: rgb(255, 154, 154);
+    background-color: rgb(255, 252, 252);
+}
+img{
+    max-width: 295px;
+    border-radius: 50%;
+    border-style: groove;
+}
+.coluna-50{
+    position: relative;
+    width: 300px;
+    background-color: turquoise;
+    color: rgb(0, 0, 0)
+}
+.coluna-80{
+    position: fixed;
+    top: 0px;
+    left: 350px;
+    width: px;
 }
