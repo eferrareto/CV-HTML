@@ -1,2 +1,2 @@
 # CV-HTML
- Currículo Online (em andamento)
+ Currículo Online (Finalizado)
